@@ -1,5 +1,2 @@
-language: python
-rvm:
- - 3.6
- 
- install: ./setup.py
+language: python 
+install: ./setup.py
