@@ -1,2 +1,4 @@
 language: python
--pip install tensorflow==1.14
+install:
+  -pip install tensorflow==1.14
+  -pip install -e .
